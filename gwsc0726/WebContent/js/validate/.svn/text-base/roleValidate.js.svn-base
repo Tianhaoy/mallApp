@@ -1,0 +1,14 @@
+$().ready(function() {
+	$("#role_form").validate({
+		rules : {
+			name : {
+				required : true
+			}
+		},
+		messages : {
+			name : {
+				required : "角色名称不能为空"
+			}
+		}
+	});
+});

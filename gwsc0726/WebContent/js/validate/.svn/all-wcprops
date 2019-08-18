@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/wxfx/!svn/ver/2/wxfx/wxfx/WebRoot/js/validate
+END
+jquery.validate.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wxfx/!svn/ver/2/wxfx/wxfx/WebRoot/js/validate/jquery.validate.js
+END
+messages_cn.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wxfx/!svn/ver/2/wxfx/wxfx/WebRoot/js/validate/messages_cn.js
+END
+userValidate.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wxfx/!svn/ver/2/wxfx/wxfx/WebRoot/js/validate/userValidate.js
+END
+roleValidate.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wxfx/!svn/ver/2/wxfx/wxfx/WebRoot/js/validate/roleValidate.js
+END
+resourceValidate.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wxfx/!svn/ver/2/wxfx/wxfx/WebRoot/js/validate/resourceValidate.js
+END

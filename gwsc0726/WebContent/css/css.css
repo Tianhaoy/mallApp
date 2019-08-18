@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html{font-size: 13px;color: #565656; background:#2297DC; }
+html,body,img,table,tr,td,dl,dt,dd,p,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,select,fieldset,input,button,textarea,blockquote{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif,simhei,simsun,"宋体","黑体";}
+dl,ul,li{list-style:none;}
+.page { font-family: Helvetica, Arial, sans-serif; width: 100%; height: 100%; display: block; margin: 0px; overflow: visible; padding: 45px 0px 70px 0px; top: 0px; left: 0px; bottom:0px; right:0px; }
+
+a:link {color: #606366; text-decoration: none}
+a:visited {color: #606366; text-decoration: none}
+a:hover {color: #ce0246; text-decoration: none}
+a:active {color:#ce0246; text-decoration: none}
+
+h2 {width:94%; line-height:25px; margin:5px auto 0 auto; color:#ce0246; font-size:14px; font-weight:bold;}
+h3 {color:#565656; font-size:14px; padding:0px 0px 5px 0px;}
+h4 {color:#565656; padding:5px 5px 5px 5px;}
+
+/*以下是登录页面*/
+.LogoImg {width:85%; height:42px; background:url(../img/logo01.png) left top no-repeat; margin:auto; margin-top:130px;}
+.LoginBox01 {width:85%; color:#ffffff;margin:auto; margin-top:20px;padding-top:1px; padding-left:1px; padding-bottom:1px; -moz-box-shadow: 0px 0px 1px black; -webkit-box-shadow: 0px 0px 1px black; box-shadow: 0px 0px 1px black; -moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px; }
+.LoginBox02 {width:99.9%; background:#FFF;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;  color:#ffffff;}
+.VersionText{color:#fff;font-family:simhei; text-align:right; width:98%; position:absolute; bottom:10px;}
+.MemberLogin {font-family:simhei; color:#ffffff; font-weight:bolder; font-size:28px;-moz-text-shadow: 1px 1px 3px #404040; -webkit-text-shadow: 1px 1px 3px #404040; text-shadow: 1px 1px 3px #404040; text-align:center; padding-top:15px; margin-bottom:15px;}
+.LoginText {width:85%; height:35px; background:#ffffff;-moz-border-radius:1px;-webkit-border-radius:1px;border-radius:1px; border:none; padding:0px 20px 0px 20px; line-height:38px; font-size:14px; color:#858585; border-bottom:1px solid #E2E2E2; margin-top:15px; padding-bottom:10px;}
+.LoginText1 {width:85%; height:35px; background:#ffffff;-moz-border-radius:1px;-webkit-border-radius:1px;border-radius:1px; border:none; padding:0px 20px 0px 20px; line-height:38px; font-size:14px; color:#858585; margin-bottom:15px; padding-top:10px;}
+.ChooseBox{width:30px; height:30px; background:#ffffff;-moz-box-shadow:1px 1px 6px #000000 inset;/* For Firefox3.6+ */-webkit-box-shadow:1px 1px 6px #000000 inset;/* For Chrome5+, Safari5+ */box-shadow:1px 1px 6px #000000 inset;/* For Latest Opera */-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px; }
+.EnterBtn01{width:85%; margin:auto;  margin-top:10px; height:35px;background:-moz-gradient(linear, 0 0, 0 100%, from(#ADE5FC), to(#80CEF4)); background:-webkit-gradient(linear, 0 0, 0 100%, from(#ADE5FC), to(#80CEF4)); background:gradient(linear, 0 0, 0 100%, from(#ADE5FC), to(#80CEF4)); -moz-box-shadow: 0px 0px 3px black; -webkit-box-shadow: 0px 0px 3px black; box-shadow: 0px 0px 3px black; -moz-border-radius:10px;-webkit-border-radius:10px;border-radius:5px;padding-top:1px; padding-left:1px;}
+.EnterBtn02{width:99.9%; height:34px;text-align:center; line-height:34px; font-size:18px; color:#1D4358;background:-moz-gradient(linear, 0 0, 0 100%, from(#ADE5FC), to(#80CEF4)); background:-webkit-gradient(linear, 0 0, 0 100%, from(#ADE5FC), to(#80CEF4));  background:gradient(linear, 0 0, 0 100%, from(#ADE5FC), to(#80CEF4));-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+.ResetBtn01{width:100%; height:35px; background:#f0f0f0;-moz-box-shadow: 0px 0px 3px black; -webkit-box-shadow: 0px 0px 3px black; box-shadow: 0px 0px 3px black; -moz-border-radius:10px;-webkit-border-radius:10px;border-radius:5px;padding-top:1px; padding-left:1px;}
+.ResetBtn02{width:99.9%; height:34px; text-align:center; line-height:34px; font-size:18px; color:#ce0246; background:#f0f0f0;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+/*登录页面结束*/
